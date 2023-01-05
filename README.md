@@ -12,7 +12,7 @@ scripting. The specific list of projects contained follows:
 
 ## Author :
 
-* **PRECIOUS NWAIGBO** <[Tactical98](https://github.com/Tactical98)>
+* **Onaivbi Iriajen** <[onas1](https://github.com/onas1)>
 
 ## Acknowledgements :pray:
 
